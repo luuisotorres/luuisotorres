@@ -8,11 +8,11 @@
 [![Hugging Face](https://img.shields.io/badge/_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/luisotorres)
 
 ## 👨🏻‍💻 About Me
-- 📚 Graduated in Financial Management
+- 📚 Undergraduate Degree in Financial Management
 - 💻 Postgraduate in Data Science & Artificial Intelligence
 - 🖥️ Experience in AML/FT for Fintechs
 - 📓 SEO Writer for Finance, Trading, and Technology
-- ✍🏻 Currently a Postgrad student in Machine Learning Engineering [@FIAP](https://github.com/fiap) 
+- ✍🏻 Currently advancing my studies in Machine Learning Engineering [@FIAP](https://github.com/fiap) 
 
 ## 🎯 Current Focus
 - 🤖 AI Engineering 
@@ -21,11 +21,11 @@
 ## 💼 Portfolio
 
 ### 💻 Web Apps 
-- 🍷 [Wine Quality Prediction](https://huggingface.co/spaces/luisotorres/wine-quality-predictions)
-- 💰 [PorfolioPro](https://huggingface.co/spaces/luisotorres/portfolio-management)
-- 🐶 [Cats vs Dogs](https://huggingface.co/spaces/luisotorres/cats-vs-dogs)
-- 🌿 [Plant Disease Detection](https://huggingface.co/spaces/luisotorres/plant-disease-detection)
-- 🤖 [Text Summarization with Bart](https://huggingface.co/spaces/luisotorres/bart-text-summarization)
+- 🍷 [Wine Quality Prediction Using Machine Learning Models](https://huggingface.co/spaces/luisotorres/wine-quality-predictions)
+- 💰 [PorfolioPro: Investment Portfolio Management Tool](https://huggingface.co/spaces/luisotorres/portfolio-management)
+- 🐶 [Cats vs Dogs: Deep Learning Image Classifier](https://huggingface.co/spaces/luisotorres/cats-vs-dogs)
+- 🌿 [Plant Disease Detection with Computer Vision](https://huggingface.co/spaces/luisotorres/plant-disease-detection)
+- 🤖 [Text Summarization Using BART](https://huggingface.co/spaces/luisotorres/bart-text-summarization)
 
 ### 📚 Kaggle Notebooks
 - 📈 [Data Science for Financial Markets (270+ upvotes, 900+ copies)](https://www.kaggle.com/code/lusfernandotorres/data-science-for-financial-markets)
@@ -35,8 +35,8 @@
 - 🎧 [Audio Data: Music Genre Classification](https://www.kaggle.com/code/lusfernandotorres/audio-data-music-genre-classification)
 
 ### 📂 Datasets
-- ₿ [Wikipedia Crypto Articles](https://www.kaggle.com/datasets/lusfernandotorres/wikipedia-crypto-articles)
-- 🪙 [Ibovespa Futures](https://www.kaggle.com/datasets/lusfernandotorres/ibovespa-futures)
+- 🪙 [Wikipedia Crypto Articles](https://www.kaggle.com/datasets/lusfernandotorres/wikipedia-crypto-articles)
+- 📈 [Ibovespa Futures](https://www.kaggle.com/datasets/lusfernandotorres/ibovespa-futures)
 
 ### 🤖 Machine Learning Models on 🤗Transformers
 - 📝 [Bart Fine-tuned on Samsum Dataset](https://huggingface.co/luisotorres/bart-finetuned-samsum)
