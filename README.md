@@ -19,6 +19,7 @@
 
 ### 📚 Currently Focusing On...
 - AI Engineering 
+- AI Agents
 - AML/FT & Trading Solutions for Cryptocurrency 
 
 ## 📌 Pinned Repositories
