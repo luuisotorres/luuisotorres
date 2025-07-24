@@ -27,25 +27,26 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://github.com/luuisotorres/mcp-ai-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=mcp-ai-agent&theme=dark" width="100%" />
+      <a href="https://github.com/luuisotorres/AML-MultiAgent-RAG">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=AML-MultiAgent-RAG&theme=dark" width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/luuisotorres/atlas-ai-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=atlas-ai-agent&theme=dark" width="100%" />
+      <a href="https://github.com/luuisotorres/mcp-ai-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=mcp-ai-agent&theme=dark" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/luuisotorres/capytrader-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=capytrader-ai&theme=dark" width="100%" />
+      <a href="https://github.com/luuisotorres/atlas-ai-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=atlas-ai-agent&theme=dark" width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/luuisotorres/Credit-Card-Fraud-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=Credit-Card-Fraud-Detection&theme=dark" width="100%" />
+      <a href="https://github.com/luuisotorres/capytrader-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=capytrader-ai&theme=dark" 
+        width="100%" />
       </a>
     </td>
   </tr>
