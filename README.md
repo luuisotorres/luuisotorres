@@ -13,14 +13,14 @@
 ## 👨🏻‍💻 About Me
 - Undergraduate Degree in Financial Management
 - Specialist in Data Science & Artificial Intelligence from PUCRS
-- Experience in AML/FT for Fintechs
+- Experience in AML/CFT for Fintechs
 - SEO Writer for Finance, Trading, and Technology
 - Currently pursuing a Specialization in Machine Learning Engineering from [@FIAP](https://github.com/fiap) 
 
 ### 📚 Currently Focusing On...
 - AI Engineering 
 - AI Agents
-- AML/FT & Trading Solutions for Cryptocurrency 
+- AML/CFT & Trading Solutions for Cryptocurrency 
 
 ## 📌 Pinned Repositories
 
@@ -99,7 +99,7 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FFDF00?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### FinTech & Compliance
-![AML/FT](https://img.shields.io/badge/AML/FT-228B22?style=for-the-badge)
+![AML/CFT](https://img.shields.io/badge/AML/CFT-228B22?style=for-the-badge)
 ![Transaction Monitoring](https://img.shields.io/badge/Transaction%20Monitoring-4682B4?style=for-the-badge)
 ![OFAC](https://img.shields.io/badge/OFAC-2E8B57?style=for-the-badge)
 ![BSA](https://img.shields.io/badge/BSA-4682B4?style=for-the-badge)
