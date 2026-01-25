@@ -24,6 +24,7 @@
         <li>AI Engineering</li>
         <li>AI Agents</li>
         <li>Cryptocurrency</li>
+        <li>Prediction Markets</li>
       </ul>
     </td>
     <td width="40%">
