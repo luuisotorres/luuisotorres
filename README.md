@@ -40,25 +40,25 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/luuisotorres/AML-MultiAgent-RAG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=AML-MultiAgent-RAG&theme=tokyonight" width="100%" />
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=luuisotorres&repo=AML-MultiAgent-RAG&theme=tokyonight" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/luuisotorres/mcp-ai-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=mcp-ai-agent&theme=tokyonight" width="100%" />
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=luuisotorres&repo=mcp-ai-agent&theme=tokyonight" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/luuisotorres/atlas-ai-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=atlas-ai-agent&theme=tokyonight" width="100%" />
+      <td width="50%">
+      <a href="https://github.com/luuisotorres/polymarket-intelligence">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=luuisotorres&repo=polymarket-intelligence&theme=tokyonight" 
+        width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/luuisotorres/capytrader-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luuisotorres&repo=capytrader-ai&theme=tokyonight" 
-        width="100%" />
+      <a href="https://github.com/luuisotorres/atlas-ai-agent">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=luuisotorres&repo=atlas-ai-agent&theme=tokyonight" width="100%" />
       </a>
     </td>
   </tr>
