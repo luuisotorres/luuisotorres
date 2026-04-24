@@ -5,26 +5,20 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&width=435&lines=AI+%26+Machine+Learning+Engineer" alt="Typing SVG" /></a>
       <br/>
       <h4>🔗 Connect with me:</h4>
-      <p align="left">
-        <a href="https://www.linkedin.com/in/luuisotorres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luuisotorres" height="30" width="40" /></a>
-        <a href="https://medium.com/@luuisotorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luuisotorres" height="30" width="40" /></a>
-        <a href="https://www.kaggle.com/lusfernandotorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lusfernandotorres" height="30" width="40" /></a>
-        <a href="https://huggingface.co/luisotorres" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="luisotorres" height="30" width="40" /></a>
-      </p>
+      <p align="left"><a href="https://www.linkedin.com/in/luuisotorres/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luuisotorres" height="30" width="40" /></a>&nbsp;<a href="https://medium.com/@luuisotorres" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luuisotorres" height="30" width="40" /></a>&nbsp;<a href="https://www.kaggle.com/lusfernandotorres" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lusfernandotorres" height="30" width="40" /></a>&nbsp;<a href="https://huggingface.co/luisotorres" target="blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="luisotorres" height="30" width="40" /></a></p>
       <h2>👨🏻‍💻 About Me</h2>
       <ul>
         <li>Degree in Financial Management</li>
         <li>Postgrad in Data Science & Artificial Intelligence from PUCRS</li>
+        <li>Postgrad in Machine Learning Engineering from FIAP</li>
         <li>Experienced in AML/CFT for Fintechs</li>
         <li>SEO Writer for Finance, Trading, and Technology</li>
-        <li>Currently pursuing a Postgrad in Machine Learning Engineering from <a href="https://github.com/fiap">@FIAP</a></li>
       </ul>
       <h3>📚 Currently Focusing On...</h3>
       <ul>
         <li>AI Engineering</li>
         <li>AI Agents</li>
         <li>Cryptocurrency</li>
-        <li>Prediction Markets</li>
       </ul>
     </td>
     <td width="40%">
